@@ -1,6 +1,7 @@
 # Shooting-Range-VR
 *3 Weapons (pistol, assault rifle, harpoon gun)  
 *3 Difficulties (easy, medium, hard)
+*Rates your performance
 *Static and moving targets  
 *Manual Reload  
 *Sound Effects  
