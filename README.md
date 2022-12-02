@@ -16,7 +16,7 @@
 # Demos
 Quest APK: https://github.com/Rbeltran37/Shooting-Range-VR/releases/download/APK/ShootingRangeVR.apk
 
-PCVR: 
+PCVR: https://github.com/Rbeltran37/Shooting-Range-VR/releases/download/PCVR/Shooting.Range.VR.zip
 
 # Video Preview  
 https://youtu.be/MSwHTF5vR0Q
