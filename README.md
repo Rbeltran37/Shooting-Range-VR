@@ -14,7 +14,7 @@
 5. Assault Rifle and Harpoon Gun require you to grab barrel with LEFT HAND to shoot  
   
 # Demos
-Quest APK: 
+Quest APK: https://github.com/Rbeltran37/Shooting-Range-VR/releases/download/APK/ShootingRangeVR.apk
 
 PCVR: 
 
